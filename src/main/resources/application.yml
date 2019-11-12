@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: Teste Java Pleno
+  jackson:    serialization:      indent-output: true  
+ 
+google:
+  api-key: AIzaSyCFXV_MXvzvk1ZZIq2gV7anyeZyib7m11c  
